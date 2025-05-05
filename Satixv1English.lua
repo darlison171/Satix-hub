@@ -10952,8 +10952,8 @@ local v122 = require(game.ReplicatedStorage.Util.CameraShaker);
 v122:Stop();
 local v123 = game:GetService("Players");
 game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "Ayai_Yume ",
+	Title = "satix hub",
 	Text = "Loading Done!",
 	Icon = "http://www.roblox.com/asset/?id=111982589088426",
-	Duration = 10
+	Duration = 1
 });
