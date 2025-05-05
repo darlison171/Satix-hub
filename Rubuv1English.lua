@@ -3,7 +3,7 @@
 From: Noguchi Hyuga
 - Website: iamkhnah.github.io/noguchihyuga/index.html 
 - Facebook Founder: fb.com/p.khnah.itonltz
-- Discord Server: https://discord.gg/836PgY82J4
+- Discord Server: https://discord.gg/mEjuer87ta
 
 --// Lưu Ý:
 - Không Được Share Hay Crack Mã Nguồn Này Cho Ai!
